@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhisekhNayek" alt="AbhisekhNayek" /></a> </p>
 
-- 💬 Ask me about ***Machine Learning***
+- 💬 Ask me about ***Machine Learning, Web Development, Data Structures***
 
 - 📫 How to reach me **abhiskhnayek1@gmail.com**
 
