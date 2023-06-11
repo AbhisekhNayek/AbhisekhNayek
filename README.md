@@ -2,11 +2,11 @@
 <h3 align="center"> A Passionate Frontend Developer From India</h3>
 <img align="center" alt="coding" height="400" width="660" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayekabhishek1&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekhNayek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekhNayek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhisekhNayek" alt="AbhisekhNayek" /></a> </p>
 
-- 💬 Ask me about ***Machine Learning, Web Development, Data Structures***
+- 💬 Ask me about ***Machine Learning, Web Development, Data Structures, Dynamic Programming***
 
 - 📫 How to reach me **abhiskhnayek1@gmail.com**
 
