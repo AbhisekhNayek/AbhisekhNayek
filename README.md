@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="https://github.com/AbhisekhNayek">Abhisekh Nayek</a></h1>
-<h3 align="center"> A Passionate Frontend Developer From India</h3>
+<h3 align="center"> A Passionate Forntend Developer From India</h3>
 <img align="center" alt="coding" height="400" width="660" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekhNayek" /> </p>
