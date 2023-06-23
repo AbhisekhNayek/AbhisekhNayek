@@ -35,11 +35,11 @@
 <br>
 <hr style="border: solid black 4px; height: 4px; background-color: #000; width: 100%;">
 <div>
-<p><img align=center" height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&locale=en&layout=compact" alt="AbhisekhNayek" /></p>
+<p><img align="left" height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&locale=en&layout=compact" alt="AbhisekhNayek" /></p>
 </div>
 <br>
 <div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&locale=en" alt="AbhisekhNayek" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&locale=en" alt="AbhisekhNayek" /></p>
 </div>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekhnayek&" alt="abhisekhnayek" /></p>
