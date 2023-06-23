@@ -35,7 +35,7 @@
 <br>
 <hr style="border: solid black 4px; height: 4px; background-color: #000; width: 100%;">
 <div>
-<p><img align="left" height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&locale=en&layout=compact" alt="AbhisekhNayek" /></p>
+<p><img align=center" height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&locale=en&layout=compact" alt="AbhisekhNayek" /></p>
 </div>
 <br>
 <div>
