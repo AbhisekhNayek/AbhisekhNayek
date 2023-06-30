@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development, Machine Learning Projects**
 
-- 💬 Ask me about ***Machine Learning, Web Development, Data Structures & Algorithm, Dynamic Programming***
+- 💬 Ask me about ***Machine Learning, Web Development, Data Structures & Algorithm, Dynamic Programming, Cloud Computing***
 
 - 📫 How to reach me **abhiskhnayek1@gmail.com**
 
