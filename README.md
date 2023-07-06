@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayekabhishek1" alt="AbhisekhNayek" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Web Development, Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 💬 Ask me about ***Machine Learning, Web Development, Data Structures & Algorithm, Dynamic Programming, Cloud Computing***
 
