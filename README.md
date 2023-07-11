@@ -77,12 +77,12 @@
 <h4>More :</h4>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=dark&locale=en" alt="AbhisekhNayek" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&theme=dark&locale=en&layout=compact" alt="AbhisekhNayek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=radical" alt="AbhisekhNayek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekhNayek&layout=compact&theme=radical&hide_border=true" alt="AbhisekhNayek" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=dark" alt="AbhisekhNayek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=radical" alt="AbhisekhNayek" /></p>
   </div>
 
