@@ -77,8 +77,8 @@
 <h4>More :</h4>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=dark" alt="AbhisekhNayek" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekhNayek&layout=compact&theme=dark&hide_border=true" alt="AbhisekhNayek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=radical" alt="AbhisekhNayek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekhNayek&layout=compact&theme=radical&hide_border=true" alt="AbhisekhNayek" /></td>
   </tr>
 </table>
 
