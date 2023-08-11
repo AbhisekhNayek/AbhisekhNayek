@@ -86,4 +86,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=highcontrast" alt="AbhisekhNayek" /></p>
   </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=60000&lines=%E2%80%9CHardwork+is+something+that+you+marinate+over+time+its+not+microwaveable.%E2%80%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CHardwork+is+something+that+you+marinate+over+time+its+not+microwaveable.%E2%800%9E)](https://git.io/typing-svg)
