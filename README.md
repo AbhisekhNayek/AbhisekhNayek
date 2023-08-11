@@ -86,4 +86,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=highcontrast" alt="AbhisekhNayek" /></p>
   </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CAlways+Curious+for+implementing.%E2%800%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CAlways+Curious+for+implementing%E2%800%9C)](https://git.io/typing-svg)
