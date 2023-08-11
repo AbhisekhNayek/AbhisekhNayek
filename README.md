@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="https://github.com/AbhisekhNayek">Abhisekh Nayek</a></h1>
-<h3 align="center"> A Passionate Front-end Developer From India</h3>
+<h3 align="center"> A Passionate Full Stack Developer From India</h3>
 
 <img align="center" alt="coding" height="400" width="660" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekhNayek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayekabhishek1" alt="AbhisekhNayek" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+Hardwork.%E2%80%9D)](https://git.io/typing-svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nayekabhishek1&theme=radical)](https://github.com/nayekabhishek1)
+
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -84,6 +87,4 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=highcontrast" alt="AbhisekhNayek" /></p>
-  </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CAlways+Curious+for+implementing%E2%800%9C)](https://git.io/typing-svg)
+</div>
