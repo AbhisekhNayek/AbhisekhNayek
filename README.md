@@ -80,10 +80,12 @@
 <h4>More :</h4>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast" alt="AbhisekhNayek" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekhNayek&layout=compact&theme=highcontrast&hide_border=false" alt="AbhisekhNayek" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" alt="AbhisekhNayek" /></td>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&theme=dark&locale=en&layout=compact" alt="AbhisekhNayek" /></td>
   </tr>
 </table>
+
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=highcontrast" alt="AbhisekhNayek" /></p>
