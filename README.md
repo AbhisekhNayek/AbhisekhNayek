@@ -87,5 +87,9 @@
 
 
 <div align="center">
-<p><img align="center" src="https://d3frb2mbny706b.cloudfront.net/AbhisekhNayek" alt="AbhisekhNayek" width="800" height="500"/></p>
+   <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img  alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
 </div>
