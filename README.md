@@ -86,7 +86,6 @@
 </table>
 
 
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekhNayek&theme=highcontrast" alt="AbhisekhNayek" /></p>
+<p><img align="center" src="https://d3frb2mbny706b.cloudfront.net/AbhisekhNayek" alt="AbhisekhNayek" width="800" height="500"/></p>
 </div>
