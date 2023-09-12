@@ -89,7 +89,7 @@
 <div align="center">
    <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img  alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=monokai-metallian&hide_border=true"/>
+      <img  alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=true"/>
     </a>
   </p>
 </div>
