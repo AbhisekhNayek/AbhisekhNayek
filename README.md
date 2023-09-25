@@ -9,7 +9,7 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=1077F0&lines=Belive+in+Hardwork+%3A)" /> </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nayekabhishek1&theme=radical)](https://github.com/nayekabhishek1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nayekabhishek1&theme=juicyfresh)](https://github.com/nayekabhishek1)
 
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
@@ -90,7 +90,7 @@
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/>
+  <img alt="Github Pages" src="https://img.shields.io/badge/Github Pages-000000?style=for-the-badge&logo=Github Pages&logoColor=red"/>
 </div><br/>
 
 <h3 align="left">CI/CD Tools :</h3>
