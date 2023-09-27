@@ -55,6 +55,8 @@
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
+<img alt="scss" src="https://img.shields.io/badge/S-css-000000?style=for-the-badge&logo=S-css&logoColor=white"/>
+
 </div>
 
 <h3 align="left">Languages :</h3>
