@@ -56,6 +56,8 @@
 <img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img alt="scss" src="https://img.shields.io/badge/S-css-000000?style=for-the-badge&logo=S-css&logoColor=white"/>
+<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/>
+
 
 </div>
 
@@ -89,7 +91,7 @@
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FF9900?style=for-the-badge&logo=Heroku&logoColor=white"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Github Pages" src="https://img.shields.io/badge/Github Pages-000000?style=for-the-badge&logo=Github Pages&logoColor=red"/>
