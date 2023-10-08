@@ -57,6 +57,8 @@
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img alt="scss" src="https://img.shields.io/badge/S-css-000000?style=for-the-badge&logo=S-css&logoColor=white"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/>
+<img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
+<img alt="Mustache" src="https://img.shields.io/badge/Mustache-000000?style=for-the-badge&logo=Mustache&logoColor=white"/>
 
 
 </div>
