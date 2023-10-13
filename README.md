@@ -43,6 +43,8 @@
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-CC6699?style=for-the-badge&logo=Wordpress&logoColor=black"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
 
+<img alt="Axios" src="https://img.shields.io/badge/Axios-CC6699?style=for-the-badge&logo=Axios&logoColor=black"/>
+
 <img alt="nodemon" src="https://img.shields.io/badge/nodemon-CC6699?style=for-the-badge&logo=nodemon&logoColor=black"/>
 <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-CC6699?style=for-the-badge&logo=Socket.io&logoColor=black"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
