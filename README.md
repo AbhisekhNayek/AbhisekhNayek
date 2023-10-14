@@ -44,12 +44,15 @@
 <img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
 
 <img alt="Axios" src="https://img.shields.io/badge/Axios-CC6699?style=for-the-badge&logo=Axios&logoColor=black"/>
+<img alt="Mocha" src="https://img.shields.io/badge/Mocha-230769AD?style=for-the-badge&logo=Mocha&logoColor=black"/>
 
 <img alt="nodemon" src="https://img.shields.io/badge/nodemon-CC6699?style=for-the-badge&logo=nodemon&logoColor=black"/>
 <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-CC6699?style=for-the-badge&logo=Socket.io&logoColor=black"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+<img alt="Jest" src="https://img.shields.io/badge/Jest-230769AD?style=for-the-badge&logo=Jest&logoColor=black"/>
+
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=Postman&logoColor=black"/>
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
