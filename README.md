@@ -24,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/abhisekhnayek1755/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abhisekhnayek1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://leetcode.com/Abhisekh15/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-2CA5E0?style=for-the-badge&logo=Leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/Geeksforgeeks-2CA5E0?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhisekhnayek1755/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:abhisekhnayek1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+   <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=black"/></a>
+  <a href="https://leetcode.com/Abhisekh15/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/Geeks for geeks-cyan?style=for-the-badge&logo=Geeksforgeeks&logoColor=black" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -41,27 +41,26 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-CC6699?style=for-the-badge&logo=Wordpress&logoColor=black"/>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
-
+  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-blue?style=for-the-badge&logo=Socket.io&logoColor=black"/>
 <img alt="Axios" src="https://img.shields.io/badge/Axios-CC6699?style=for-the-badge&logo=Axios&logoColor=black"/>
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-230769AD?style=for-the-badge&logo=Mocha&logoColor=black"/>
-
 <img alt="nodemon" src="https://img.shields.io/badge/nodemon-CC6699?style=for-the-badge&logo=nodemon&logoColor=black"/>
-<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-CC6699?style=for-the-badge&logo=Socket.io&logoColor=black"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
-<img alt="Jest" src="https://img.shields.io/badge/Jest-230769AD?style=for-the-badge&logo=Jest&logoColor=black"/>
-
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-230769AD.svg?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+<img alt="Jest" src="https://img.shields.io/badge/Jest-cyan?style=for-the-badge&logo=Jest&logoColor=black"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=Postman&logoColor=black"/>
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+<img alt="Rcoil" src="https://img.shields.io/badge/Recoil-230769AD?style=for-the-badge&logo=Recoil&logoColor=black"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
+<img alt="Semanticuireact" src="https://img.shields.io/badge/Semantic ui react-230769AD?style=for-the-badge&logo=Semanticuireact&logoColor=black"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-<img alt="scss" src="https://img.shields.io/badge/S-css-000000?style=for-the-badge&logo=S-css&logoColor=white"/>
-<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white"/>
+<img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
+<img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
 <img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
 <img alt="Mustache" src="https://img.shields.io/badge/Mustache-000000?style=for-the-badge&logo=Mustache&logoColor=white"/>
 
