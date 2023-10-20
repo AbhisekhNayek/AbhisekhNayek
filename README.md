@@ -62,7 +62,8 @@
 <img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
 <img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
-<img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=white"/>
+<img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=black"/>
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
 
 
 </div>
