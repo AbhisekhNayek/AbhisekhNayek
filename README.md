@@ -29,6 +29,7 @@
    <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=black"/></a>
   <a href="https://leetcode.com/Abhisekh15/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/Geeks for geeks-cyan?style=for-the-badge&logo=Geeksforgeeks&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-230769AD?style=for-the-badge&logo=Hackerrank&logoColor=black" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
