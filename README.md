@@ -65,7 +65,7 @@
 <img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
 <img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=black"/>
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
-
+<img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-purple?style=for-the-badge&logo=Ant Design&logoColor=black"/>
 
 </div>
 
