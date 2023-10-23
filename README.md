@@ -107,18 +107,20 @@
 
 <h3 align="left">CI/CD Tools :</h3>
 <div align="left">
-    <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white"/>
-    <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-000000?style=for-the-badge&logo=Gitlab&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white"/>
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=Apache&logoColor=white"/>
+    <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=blue"/>
+    <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-000000?style=for-the-badge&logo=Gitlab&logoColor=red"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=orange">
+    <img alt="Apache" src="https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=Apache&logoColor=purple"/>
 </div><br/>
 
 <h3 align="left">Operating System :</h3>
 <div align="left">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=white"/>
-    <img alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=yellow"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue"/>
+    <img alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=green"/>
     <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=MacOS&logoColor=white"/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=Kali Linux&logoColor=red"/>
+</div><br/>
 </div><br/>
 
 
