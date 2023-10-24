@@ -66,6 +66,8 @@
 <img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=black"/>
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
 <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-purple?style=for-the-badge&logo=Ant Design&logoColor=black"/>
+<img alt="React Query" src="https://img.shields.io/badge/React Query-grey?style=for-the-badge&logo=React Query&logoColor=blue"/>
+
 
 </div>
 
