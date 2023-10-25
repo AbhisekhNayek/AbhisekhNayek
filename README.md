@@ -122,6 +122,7 @@
     <img alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=green"/>
     <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=MacOS&logoColor=white"/>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=Kali Linux&logoColor=red"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=red"/>
 </div><br/>
 </div><br/>
 
