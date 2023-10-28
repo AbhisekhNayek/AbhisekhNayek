@@ -41,7 +41,7 @@
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"/>
-<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-CC6699?style=for-the-badge&logo=Wordpress&logoColor=black"/>
+<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-007FFF?style=for-the-badge&logo=Wordpress&logoColor=black"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-blue?style=for-the-badge&logo=Socket.io&logoColor=black"/>
