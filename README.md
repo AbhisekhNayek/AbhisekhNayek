@@ -69,7 +69,7 @@
 <img alt="React Query" src="https://img.shields.io/badge/React Query-grey?style=for-the-badge&logo=React Query&logoColor=blue"/>
 <img alt="Storybook" src="https://img.shields.io/badge/Storybook-white?style=for-the-badge&logo=Storybook&logoColor=red"/>
 <img alt="Mobx" src="https://img.shields.io/badge/Mobx-007FFF?style=for-the-badge&logo=Mobx&logoColor=white"/>
-
+<img alt="Figma" src="https://img.shields.io/badge/Figma-cyan?style=for-the-badge&logo=Figma&logoColor=black"/>
 
 </div>
 
