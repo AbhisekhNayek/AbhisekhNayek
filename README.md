@@ -96,7 +96,7 @@
 <div align="left">
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </div>
 
@@ -104,10 +104,11 @@
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FF9900?style=for-the-badge&logo=Heroku&logoColor=white"/>
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FF9900?style=for-the-badge&logo=Heroku&logoColor=black"/>
+  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=red"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black"/>
   <img alt="Github Pages" src="https://img.shields.io/badge/Github Pages-000000?style=for-the-badge&logo=Github Pages&logoColor=red"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-007FFF?style=for-the-badge&logo=Vercel&logoColor=red"/>
 </div><br/>
 
 <h3 align="left">CI/CD Tools :</h3>
