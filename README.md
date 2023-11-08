@@ -30,6 +30,7 @@
   <a href="https://leetcode.com/Abhisekh15/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/Geeks for geeks-cyan?style=for-the-badge&logo=Geeksforgeeks&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/profile/abhisekhnayek1"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-230769AD?style=for-the-badge&logo=Hackerrank&logoColor=black" /></a>
+<a href="https://www.codingninjas.com/studio/profile/6efcf94a-4628-4e36-af39-892bf154ecc2"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding Ninjas-yellow?style=for-the-badge&logo=Codingninjas&logoColor=black" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
