@@ -9,7 +9,7 @@
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=1077F0&lines=Belive+in+Hardwork+%3A)" /> </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhisekhNayek&theme=highcontarst)](https://github.com/nayekabhishek1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhisekhNayek&theme=highcontarst)](https://github.com/AbhisekhNayek)
 
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
