@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abhiskhnayek1@gmail.com**
 
-- My primary coding language: **Python, C++**
+- My primary coding language: **Python, C++, JavaScript**
 
 - Keep it Simple...
 
