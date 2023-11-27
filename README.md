@@ -58,20 +58,20 @@
 <img alt="Rcoil" src="https://img.shields.io/badge/Recoil-230769AD?style=for-the-badge&logo=Recoil&logoColor=black"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Semanticuireact" src="https://img.shields.io/badge/Semantic ui react-230769AD?style=for-the-badge&logo=Semanticuireact&logoColor=black"/>
+<img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
 <img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
 <img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=black"/>
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
-<img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-purple?style=for-the-badge&logo=Ant Design&logoColor=black"/>
 <img alt="React Query" src="https://img.shields.io/badge/React Query-grey?style=for-the-badge&logo=React Query&logoColor=blue"/>
 <img alt="Storybook" src="https://img.shields.io/badge/Storybook-white?style=for-the-badge&logo=Storybook&logoColor=red"/>
 <img alt="Mobx" src="https://img.shields.io/badge/Mobx-007FFF?style=for-the-badge&logo=Mobx&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-cyan?style=for-the-badge&logo=Figma&logoColor=black"/>
-
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=blue"/>
+<img alt="Type Script" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  
 </div>
 
 <h3 align="left">Languages :</h3>
@@ -87,15 +87,15 @@
 
 <h3 align="left">Databases :</h3>
 <div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%2307405e.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%2307405e.svg?style=for-the-badge&logo=Oracle&logoColor=black"/>
+  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
 </div>
 
 <h3 align="left">Cloud :</h3>
 <div align="left">
-   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
@@ -118,6 +118,14 @@
     <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-000000?style=for-the-badge&logo=Gitlab&logoColor=red"/>
     <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=orange">
     <img alt="Apache" src="https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=Apache&logoColor=purple"/>
+</div><br/>
+
+<h3 align="left">UI/UX Design :</h3>
+<div align="left">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=Figma&logoColor=blue"/>
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=white"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+
 </div><br/>
 
 <h3 align="left">Operating System :</h3>
