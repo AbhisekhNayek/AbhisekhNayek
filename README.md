@@ -70,16 +70,16 @@
 <img alt="Storybook" src="https://img.shields.io/badge/Storybook-white?style=for-the-badge&logo=Storybook&logoColor=red"/>
 <img alt="Mobx" src="https://img.shields.io/badge/Mobx-007FFF?style=for-the-badge&logo=Mobx&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=blue"/>
-<img alt="Type Script" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   
 </div>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="C" src="https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img alt="Type Script" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-cyan?style=for-the-badge&logo=R&logoColor=black"/>
 </div>
