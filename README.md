@@ -59,7 +59,6 @@
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Semanticuireact" src="https://img.shields.io/badge/Semantic ui react-230769AD?style=for-the-badge&logo=Semanticuireact&logoColor=black"/>
-<img alt="Springboot" src="https://img.shields.io/badge/Springboot-000000?style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
