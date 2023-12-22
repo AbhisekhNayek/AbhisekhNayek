@@ -12,7 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhisekhNayek&theme=highcontarst)](https://github.com/AbhisekhNayek)
 
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects, App Development Projects**
 
 - 💬 Ask me about ***Machine Learning, Web Development, Data Structures & Algorithm, Dynamic Programming, Cloud Computing***
 
