@@ -96,8 +96,8 @@
 <div align="left">
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+<!--   <img alt="Docker" src ="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=Docker&logoColor=white"/>
+<!--   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=Kubernetes&logoColor=white"/> -->
 </div>
 
 </div>
