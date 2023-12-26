@@ -22,6 +22,10 @@
 
 - Keep it Simple...
 
+<div>
+  <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/abhisekhnayek1755/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
