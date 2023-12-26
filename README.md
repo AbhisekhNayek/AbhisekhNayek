@@ -124,6 +124,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=Figma&logoColor=blue"/>
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-5ee609?style=for-the-badge&logo=Canva&logoColor=black"/>
 
 </div><br/>
 
