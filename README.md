@@ -5,7 +5,12 @@
 <img align="center" alt="coding" height="400" width="660" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekhNayek" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=blueviolet&style=flat-square" alt="AbhisekhNayek" />
+</p>
+
+
+
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=1077F0&lines=Belive+in+Hardwork+%3A)" /> </h3>
 
