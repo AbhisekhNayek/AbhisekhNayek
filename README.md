@@ -137,6 +137,7 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-5ee609?style=for-the-badge&logo=Canva&logoColor=black"/>
+  <img alt="Aceternity" src="https://img.shields.io/badge/Aceternity-9b59b6?style=for-the-badge"&logo=Aceternity UI&logoColor=white"/>
 
 </div><br/>
 
