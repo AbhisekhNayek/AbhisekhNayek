@@ -57,7 +57,7 @@
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-007FFF?style=for-the-badge&logo=Wordpress&logoColor=black"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-blue?style=for-the-badge&logo=Socket.io&logoColor=black"/>
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-blue?style=for-the-badge&logo=Socket.io&logoColor=black"/>
 <img alt="Axios" src="https://img.shields.io/badge/Axios-CC6699?style=for-the-badge&logo=Axios&logoColor=black"/>
 <img alt="Mocha" src="https://img.shields.io/badge/Mocha-230769AD?style=for-the-badge&logo=Mocha&logoColor=black"/>
 <img alt="nodemon" src="https://img.shields.io/badge/nodemon-CC6699?style=for-the-badge&logo=nodemon&logoColor=black"/>
@@ -67,19 +67,18 @@
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=Postman&logoColor=black"/>
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-<img alt="Rcoil" src="https://img.shields.io/badge/Recoil-230769AD?style=for-the-badge&logo=Recoil&logoColor=black"/>
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=black"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Semanticuireact" src="https://img.shields.io/badge/Semantic ui react-230769AD?style=for-the-badge&logo=Semanticuireact&logoColor=black"/>
 <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
 <img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
 <img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
-<img alt="Pug" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=white"/>
-<img alt="Blueprint" src="https://img.shields.io/badge/Blueprint-red?style=for-the-badge&logo=Blueprint&logoColor=black"/>
+<img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-FFD700?style=for-the-badge&logo=Thunderbird&logoColor=black"/>
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
 <img alt="React Query" src="https://img.shields.io/badge/React Query-grey?style=for-the-badge&logo=React Query&logoColor=blue"/>
-<img alt="Storybook" src="https://img.shields.io/badge/Storybook-white?style=for-the-badge&logo=Storybook&logoColor=red"/>
-<img alt="Mobx" src="https://img.shields.io/badge/Mobx-007FFF?style=for-the-badge&logo=Mobx&logoColor=white"/>
+<img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=blue"/>
   
 </div>
@@ -108,8 +107,7 @@
 <div align="left">
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
-<!--   <img alt="Docker" src ="https://img.shields.io/badge/Docker-007FFF?style=for-the-badge&logo=Docker&logoColor=white"/>
-<!--   <img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-316192?style=for-the-badge&logo=Kubernetes&logoColor=white"/> -->
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
 </div>
 
 </div>
@@ -137,8 +135,6 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img alt="Canva" src="https://img.shields.io/badge/Canva-5ee609?style=for-the-badge&logo=Canva&logoColor=black"/>
-  <img alt="Aceternity" src="https://img.shields.io/badge/Aceternity-9b59b6?style=for-the-badge"&logo=Aceternity UI&logoColor=white"/>
-
 </div><br/>
 
 <h3 align="left">Operating System :</h3>
