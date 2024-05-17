@@ -83,6 +83,18 @@
   
 </div>
 
+
+<h3 align="left">Machine Learning:</h3>
+<div align="left">
+<img alt="Python" src="https://img.shields.io/badge/Python-230769AD?style=for-the-badge&logo=Python&logoColor=black"/>
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-230769AD?style=for-the-badge&logo=NumPy&logoColor=black"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-cyan?style=for-the-badge&logo=Pandas&logoColor=black"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=orange"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-230769AD?style=for-the-badge&logo=Keras&logoColor=black"/>
+<img alt="SciPy" src="https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=SciPy&logoColor=cyan"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</div>
+
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="C" src="https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=C&logoColor=white"/>
