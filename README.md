@@ -66,7 +66,6 @@
 <img alt="Jest" src="https://img.shields.io/badge/Jest-cyan?style=for-the-badge&logo=Jest&logoColor=black"/>
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=Postman&logoColor=black"/>
-<img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=black"/>
@@ -112,6 +111,8 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black"/>
   <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%2307405e.svg?style=for-the-badge&logo=Oracle&logoColor=black"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
+  <img alt="Appwrite" src="https://img.shields.io/badge/appwrite-F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white"/>
+
 </div>
 
 <h3 align="left">Cloud :</h3>
