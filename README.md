@@ -31,7 +31,7 @@
 - Keep it Simple...
 
 <div>
-  <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+  <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
