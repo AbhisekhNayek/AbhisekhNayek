@@ -117,7 +117,6 @@
 
 <h3 align="left">Cloud :</h3>
 <div align="left">
-   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
 </div>
