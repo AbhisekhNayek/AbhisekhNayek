@@ -34,131 +34,217 @@
   <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhisekhnayek1755/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:abhisekhnayek1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-   <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=black"/></a>
-  <a href="https://leetcode.com/Abhisekh15/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/Geeks for geeks-cyan?style=for-the-badge&logo=Geeksforgeeks&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/abhisekhnayek1"><img alt="HackerRank" src="https://img.shields.io/badge/Hackerrank-230769AD?style=for-the-badge&logo=Hackerrank&logoColor=black" /></a>
-<a href="https://www.codingninjas.com/studio/profile/6efcf94a-4628-4e36-af39-892bf154ecc2"><img alt="Coding Ninjas" src="https://img.shields.io/badge/Coding Ninjas-yellow?style=for-the-badge&logo=Codingninjas&logoColor=black" /></a>
+<h3 align="left">🌟 Connect with me:</h3>
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/abhisekhnayek1755/" target="_blank" style="background-color: #0077B5; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="mailto:abhisekhnayek1@gmail.com" target="_blank" style="background-color: #D14836; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank" style="background-color: #1877F2; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank" style="background-color: #E4405F; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://leetcode.com/Abhisekh15/" target="_blank" style="background-color: #FFA116; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abhisekhnayek/" target="_blank" style="background-color: #008000; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.hackerrank.com/profile/abhisekhnayek1" target="_blank" style="background-color: #2EC866; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.codingninjas.com/studio/profile/6efcf94a-4628-4e36-af39-892bf154ecc2" target="_blank" style="background-color: #FA7328; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Coding Ninjas" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.whatsapp.com/" target="_blank" style="background-color: #25D366; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://github.com/" target="_blank" style="background-color: #181717; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+    <span>__</span>
+  </a>
+  <a href="https://www.youtube.com/" target="_blank" style="background-color: #FF0000; border-radius: 10px; padding: 10px; display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" width="40" />
+  </a>
 </div>
+
+
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black"/>
-<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-007FFF?style=for-the-badge&logo=Wordpress&logoColor=black"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="Babel" src="https://img.shields.io/badge/Babel-CC6699?style=for-the-badge&logo=Babel&logoColor=black"/>
-<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-blue?style=for-the-badge&logo=Socket.io&logoColor=black"/>
-<img alt="Axios" src="https://img.shields.io/badge/Axios-CC6699?style=for-the-badge&logo=Axios&logoColor=black"/>
-<img alt="Mocha" src="https://img.shields.io/badge/Mocha-230769AD?style=for-the-badge&logo=Mocha&logoColor=black"/>
-<img alt="nodemon" src="https://img.shields.io/badge/nodemon-CC6699?style=for-the-badge&logo=nodemon&logoColor=black"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-230769AD.svg?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
-<img alt="Jest" src="https://img.shields.io/badge/Jest-cyan?style=for-the-badge&logo=Jest&logoColor=black"/>
-<img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-CC6699?style=for-the-badge&logo=Postman&logoColor=black"/>
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=black"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Semanticuireact" src="https://img.shields.io/badge/Semantic ui react-230769AD?style=for-the-badge&logo=Semanticuireact&logoColor=black"/>
-<img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=Vite&logoColor=white"/>
-<img alt="Testing Library" src="https://img.shields.io/badge/Testing Library-cyan?style=for-the-badge&logo=Testinglibrary&logoColor=red"/>
-<img alt="JSON" src="https://img.shields.io/badge/JSON-230769AD?style=for-the-badge&logo=JSON&logoColor=black"/>
-<img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-FFD700?style=for-the-badge&logo=Thunderbird&logoColor=black"/>
-<img alt="Webpack" src="https://img.shields.io/badge/Webpack-cyan?style=for-the-badge&logo=Webpack&logoColor=black"/>
-<img alt="React Query" src="https://img.shields.io/badge/React Query-grey?style=for-the-badge&logo=React Query&logoColor=blue"/>
-<img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=blue"/>
-  
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html" height="40" width="40" />
+  <span>__</span>
+  <img alt="CSS3" src="https://skillicons.dev/icons?i=css" height="40" width="40" />
+  <span>__</span>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40" width="40" />
+  <span>__</span>
+  <img alt="jQuery" src="https://skillicons.dev/icons?i=jquery" height="40" width="40" />
+  <span>__</span>
+  <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwindcss" height="40" width="40" />
+  <span>__</span>
+  <img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40" width="40" />
+  <span>__</span>
+  <img alt="Sass" src="https://skillicons.dev/icons?i=sass" height="40" width="40" />
+  <span>__</span>
+  <img alt="WordPress" src="https://skillicons.dev/icons?i=wordpress" height="40" width="40" />
+  <span>__</span>
+  <img alt="ExpressJS" src="https://skillicons.dev/icons?i=express" height="40" width="40" />
+  <span>__</span>
+  <img alt="Babel" src="https://skillicons.dev/icons?i=babel" height="40" width="40" />
+  <span>__</span>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" height="40" width="40" />
+  <span>__</span>
+  <img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" />
+  <span>__</span>
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" height="40" width="40" />
+  <span>__</span>
+  <img alt="Material UI" src="https://skillicons.dev/icons?i=mui" height="40" width="40" />
+  <span>__</span>
+  <img alt="Postman" src="https://skillicons.dev/icons?i=postman" height="40" width="40" />
+  <span>__</span>
+  <img alt="Redux" src="https://skillicons.dev/icons?i=redux" height="40" width="40" />
+  <span>__</span>
+  <img alt="Yarn" src="https://skillicons.dev/icons?i=yarn" height="40" width="40" />
+  <span>__</span>
+  <img alt="NextJS" src="https://skillicons.dev/icons?i=nextjs" height="40" width="40" />
+  <span>__</span>
+  <img alt="Vite" src="https://skillicons.dev/icons?i=vite" height="40" width="40" />
+  <span>__</span>
+  <img alt="Webpack" src="https://skillicons.dev/icons?i=webpack" height="40" width="40" />
+  <span>__</span>
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="40" width="40" />
+  <span>__</span>
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
+  <span>__</span>
+  <img alt="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="40" width="40" />
+  <span>__</span>
+  <img alt="VS" src="https://skillicons.dev/icons?i=vscode" height="40" width="40" />
+  <span>__</span>
+  <img alt="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40" width="40" />
+  <span>__</span>
+  <img alt="Pug" src="https://skillicons.dev/icons?i=pug" height="40" width="40" />
+  <span>__</span>
+  <img alt="Nginx" src="https://skillicons.dev/icons?i=nginx" height="40" width="40" />
+  <span>__</span>
+  <img alt="Notion" src="https://skillicons.dev/icons?i=notion" height="40" width="40" />
+
 </div>
 
 
-<h3 align="left">Machine Learning:</h3>
-  <div align="left">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-230769AD?style=for-the-badge&logo=NumPy&logoColor=black"/>
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-cyan?style=for-the-badge&logo=Pandas&logoColor=black"/>
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow&logoColor=orange"/>
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-230769AD?style=for-the-badge&logo=Keras&logoColor=black"/>
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img alt="Spacy" src="https://img.shields.io/badge/Spacy-230769AD?style=for-the-badge&logo=Spacy&logoColor=black"/>
-  </div>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages:</h3>
 <div align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-%23ED8B00.svg?style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Type Script" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/R-cyan?style=for-the-badge&logo=R&logoColor=black"/>
+  <img alt="C" src="https://skillicons.dev/icons?i=c" height="40" width="40" />
+  <span>__</span>
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp" height="40" width="40" />
+  <span>__</span>
+  <img alt="Java" src="https://skillicons.dev/icons?i=java" height="40" width="40" />
+  <span>__</span>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40" width="40" />
+  <span>__</span>
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="40" width="40" />
+  <span>__</span>
+  <img alt="Python" src="https://skillicons.dev/icons?i=python" height="40" width="40" />
 </div>
 
 
-<h3 align="left">Databases :</h3>
+
+<h3 align="left">Databases:</h3>
 <div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black"/>
-  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%2307405e.svg?style=for-the-badge&logo=Oracle&logoColor=black"/>
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img alt="Appwrite" src="https://img.shields.io/badge/appwrite-F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white"/>
-
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" width="40" />
+  <span>__</span>
+  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" />
+  <span>__</span>
+  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" width="40" />
+  <span>__</span>
+  <img alt="Appwrite" src="https://skillicons.dev/icons?i=appwrite" height="40" width="40" />
+  <span>__</span>
+  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="40" width="40" />
+  <span>__</span>
+  <img alt="Prisma" src="https://skillicons.dev/icons?i=prisma" height="40" width="40" />
 </div>
+
+
 
 <h3 align="left">Cloud :</h3>
 <div align="left">
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
-</div>
-
+  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Google Cloud" src="https://skillicons.dev/icons?i=googlecloud" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Amazon AWS" src="https://skillicons.dev/icons?i=aws" height="40" width="40"/>
 </div>
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FF9900?style=for-the-badge&logo=Heroku&logoColor=black"/>
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=red"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black"/>
-  <img alt="Github Pages" src="https://img.shields.io/badge/Github Pages-000000?style=for-the-badge&logo=Github Pages&logoColor=red"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-007FFF?style=for-the-badge&logo=Vercel&logoColor=red"/>
+  <img alt="Heroku" src="https://skillicons.dev/icons?i=heroku" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Github Pages" src="https://skillicons.dev/icons?i=github" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="40" width="40"/>
 </div><br/>
 
 <h3 align="left">CI/CD Tools :</h3>
 <div align="left">
-    <img alt="Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=blue"/>
-    <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-000000?style=for-the-badge&logo=Gitlab&logoColor=red"/>
-    <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=orange">
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=Apache&logoColor=purple"/>
+    <img alt="Github" src="https://skillicons.dev/icons?i=github" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Git" src="https://skillicons.dev/icons?i=git" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins" height="40" width="40"/>
+
 </div><br/>
 
 <h3 align="left">UI/UX Design :</h3>
 <div align="left">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=Figma&logoColor=blue"/>
-  <img alt="Ant Design" src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=white"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-blue?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-5ee609?style=for-the-badge&logo=Canva&logoColor=black"/>
+  <img alt="Figma" src="https://skillicons.dev/icons?i=figma" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Adobe Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40" width="40"/>
+  <span>__</span>
+  <img alt="Adobe XD" src="https://skillicons.dev/icons?i=xd" height="40" width="40"/>
+  <span>__</span>
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" width="40" alt="aftereffects logo" >
 </div><br/>
+
 
 <h3 align="left">Operating System :</h3>
 <div align="left">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=yellow"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=blue"/>
-    <img alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=green"/>
-    <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=MacOS&logoColor=white"/>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-000000?style=for-the-badge&logo=Kali Linux&logoColor=red"/>
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=red"/>
-</div><br/>
+    <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Windows" src="https://skillicons.dev/icons?i=windows" height="40" width="40"/>
+    <span>__</span>
+    <img alt="MacOS" src="https://skillicons.dev/icons?i=apple" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Kali Linux" src="https://skillicons.dev/icons?i=kali" height="40" width="40"/>
+    <span>__</span>
+    <img alt="Ubuntu" src="https://skillicons.dev/icons?i=ubuntu" height="40" width="40"/>
 </div><br/>
 
+
+<h3 align="left">Machine Learning:</h3>
+  <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img alt="OpenCV" src="https://skillicons.dev/icons?i=opencv" height="40" width="40" />
+    <img alt="OpenCV" src="https://skillicons.dev/icons?i=tkinter" height="40" width="40" />
+
+  </div>
 
 
 
