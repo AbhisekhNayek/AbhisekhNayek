@@ -1,6 +1,9 @@
 <h1 align="center">Hi I am <a href="https://github.com/AbhisekhNayek">Abhisekh Nayek</a></h1>
+<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=5657F0&lines=Passionate+Full+Stack+Developer+%3A)" /> </h3>
+
 
 <img align="center" alt="coding" height="400" width="660" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -12,7 +15,7 @@
 
 
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=1077F0&lines=Belive+in+Hardwork+%3A)" /> </h3>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
@@ -247,20 +250,35 @@
   </div>
 
 
-
-<h4>More :</h4>
+<h3 align="left">GitHub Over Time :</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" alt="AbhisekhNayek" /></td>
- <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekhNayek&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AbhisekhNayek" /></td>
+    <td>
+      <img  width="800rem" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekhNayek&theme=highcontrast&include_all_commits=true&count_private=true" alt="Profile Summary" />
+    </td>
   </tr>
 </table>
 
-
-<div align="center">
-   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img  alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false"/>
-    </a>
-  </p>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img height="155em" width="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast&include_all_commits=true&count_private=true">         
+      </td>
+      <td>
+        <img height="155em" width="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast&include_all_commits=true&count_private=true">
+      </td>
+      <td>
+        <img height="155em" width="250rem" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8&include_all_commits=true&count_private=true">
+      </td>
+    </tr>
+  </table>
+  <table>
+  <tr>
+    <td><img width="388rem" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" alt="AbhisekhNayek" /></td>
+   <td><img width="388rem" alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false"/></td>
+  </tr>
+</table>
 </div>
+<img width="900rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
