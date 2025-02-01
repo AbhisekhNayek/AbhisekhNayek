@@ -178,6 +178,8 @@
   <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="40" width="40" />
   <span>__</span>
   <img alt="Prisma" src="https://skillicons.dev/icons?i=prisma" height="40" width="40" />
+  <span>__</span>
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="40" width="40" />
 </div>
 
 
@@ -189,6 +191,8 @@
   <img alt="Google Cloud" src="https://skillicons.dev/icons?i=googlecloud" height="40" width="40"/>
   <span>__</span>
   <img alt="Amazon AWS" src="https://skillicons.dev/icons?i=aws" height="40" width="40"/>
+   <span>__</span>
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="40" width="40" />
 </div>
 
 <h3 align="left">Hosting :</h3>
