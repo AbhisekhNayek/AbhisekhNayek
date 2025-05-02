@@ -227,8 +227,6 @@
   <img alt="Adobe Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40" width="40"/>
   <span>__</span>
   <img alt="Adobe XD" src="https://skillicons.dev/icons?i=xd" height="40" width="40"/>
-  <span>__</span>
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" width="40" alt="aftereffects logo" >
 </div><br/>
 
 
