@@ -220,6 +220,13 @@
 
 </div><br/>
 
+<h3 align="left">Containerization :</h3>
+<div align="left">
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="40" width="40" />
+  <span>__</span>
+  <img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" height="40" width="40" />
+</div>
+<br>
 <h3 align="left">UI/UX Design :</h3>
 <div align="left">
   <img alt="Figma" src="https://skillicons.dev/icons?i=figma" height="40" width="40"/>
