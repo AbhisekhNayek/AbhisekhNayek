@@ -252,11 +252,10 @@
 
 
 <h3 align="left">Machine Learning:</h3>
-  <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img alt="OpenCV" src="https://skillicons.dev/icons?i=opencv" height="40" width="40" />
-    <img alt="OpenCV" src="https://skillicons.dev/icons?i=tkinter" height="40" width="40" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="OpenCV" src="https://skillicons.dev/icons?i=opencv" height="40" width="40" />
+</div>
 
-  </div>
 
 
 <h3 align="left">GitHub Over Time :</h3>
