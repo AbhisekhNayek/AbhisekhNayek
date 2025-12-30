@@ -282,11 +282,11 @@
     </tr>
   </table>
 
-  <table>
+ <table>
   <tr>
     <td>
       <img width="388"
-        src="https://uuphoria.github.io/github-readme-statsfork/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false"
         alt="AbhisekhNayek Stats" />
     </td>
     <td>
