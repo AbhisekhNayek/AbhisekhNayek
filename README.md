@@ -281,12 +281,23 @@
       </td>
     </tr>
   </table>
+
   <table>
   <tr>
-    <td><img width="388rem" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" alt="AbhisekhNayek" /></td>
-   <td><img width="388rem" alt="Abhisekh's streak" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false"/></td>
+    <td>
+      <img width="388"
+        src="https://uuphoria.github.io/github-readme-statsfork/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false"
+        alt="AbhisekhNayek Stats" />
+    </td>
+    <td>
+      <img width="388"
+        src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false"
+        alt="Abhisekh's streak" />
+    </td>
   </tr>
 </table>
+
+
 </div>
 <img width="900rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
