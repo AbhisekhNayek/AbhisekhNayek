@@ -137,20 +137,21 @@
 ## 📊 GitHub Over Time
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekhNayek&theme=highcontrast" alt="Profile Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhisekhNayek&theme=highcontrast" />
 </p>
 
 <p align="center">
-  <img height="160em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="160em" wdith="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="160em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" alt="AbhisekhNayek Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false" alt="Abhisekh's streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
+
