@@ -141,9 +141,9 @@
 </p>
 
 <p align="center">
-  <img height="200em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="200em" wdith="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="200em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
+  <img height="160em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
+  <img height="160em" wdith="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
+  <img height="160em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
 </p>
 
 <p align="center">
