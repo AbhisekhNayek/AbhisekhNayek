@@ -34,7 +34,7 @@
 
 ## 🌟 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abhisekhnayek1755/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -74,61 +74,61 @@
 
 ## 🌐 Web Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwindcss,bootstrap,sass,wordpress,express,babel,react,nodejs,jest,mui,postman,redux,yarn,nextjs,vite,webpack,git,github,vscode,visualstudio,threejs,pug,nginx,notion" />
 </p>
 
 ## 💻 Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" />
 </p>
 
 ## 🗄️ Databases
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,appwrite,postgresql,prisma,redis" />
 </p>
 
 ## ☁️ Cloud
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,googlecloud,aws,redis" />
 </p>
 
 ## 🚀 Hosting
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=heroku,firebase,netlify,github,vercel" />
 </p>
 
 ## 🔁 CI/CD Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,jenkins" />
 </p>
 
 ## 🐳 Containerization
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
 ## 🎨 UI/UX Design
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />
 </p>
 
 ## 🖥️ Operating Systems
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,apple,kali,ubuntu" />
 </p>
 
 ## 🤖 Machine Learning
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
@@ -141,9 +141,9 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
+  <img height="200em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
+  <img height="200em" wdith="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
+  <img height="200em" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
 </p>
 
 <p align="center">
