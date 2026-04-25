@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding" height="300" />
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding" height="550" width="850" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<div align="center">
+<div align="left">
 
 ### 👋 About Me
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://buymeacoffee.com/" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" height="45" />
   </a>
