@@ -9,7 +9,13 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhisekhnayek&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AbhisekhNayek&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhisekhnayek&theme=algolia&no-frame=false&no-bg=true&margin-w=10" />
 </p>
 
 <div align="left">
