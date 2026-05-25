@@ -153,8 +153,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&hide_border=false" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AbhisekhNayek&theme=highcontrast&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AbhisekhNayek&theme=highcontrast" />
 </p>
 
 <p align="center">
