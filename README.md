@@ -15,7 +15,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisekhnayek&theme=algolia&no-frame=false&no-bg=true&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=AbhisekhNayek&theme=discord" />
 </p>
 
 <div align="left">
