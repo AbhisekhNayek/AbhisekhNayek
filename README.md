@@ -14,7 +14,7 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
+<p align="left">
   <img src="https://github-trophies.vercel.app/?username=AbhisekhNayek&theme=discord" />
 </p>
 
