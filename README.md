@@ -62,9 +62,6 @@
   <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.codingninjas.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-FA7328?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -149,7 +146,7 @@
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast&utcOffset=8" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast" />
 </p>
 
 <p align="center">
