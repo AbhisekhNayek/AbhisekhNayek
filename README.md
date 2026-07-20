@@ -144,17 +144,17 @@
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhisekhNayek&theme=highcontrast"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhisekhNayek&theme=highcontrast"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhisekhNayek&theme=highcontrast"/>
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&" />
-  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AbhisekhNayek&theme=highcontrast" />
+  <img width="47%" src="https://github-readme-stats-fast.vercel.app/api?username=AbhisekhNayek&show_icons=true&theme=highcontrast&"/>
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=AbhisekhNayek&theme=highcontrast"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
